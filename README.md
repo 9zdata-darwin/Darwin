@@ -2,6 +2,9 @@
 ## Darwin是什么？
 Darwin是基于Hadoop的企业级应用支撑平台，通过组件化、可视化的方式，帮助用户快速实现大数据的汇，存、查、交换，分析挖掘和管理。
 
+>欢迎访问优酷视频 [Darwin，给你幸福](http://v.youku.com/v_show/id_XMTI5Njc1Mjc4NA==.html) - 优酷有广告 <br>
+>欢迎访问百度云视频 [Darwin，给你幸福](http://pan.baidu.com/s/1sjuW22T) - 无广告 <br>
+
 ## 目标
 Darwin的目标是：“让企业更容易地用好大数据，让人人都可以玩转大数据”<br>
 Darwin通过Web界面配置，`0`代码开发，即可完成对数据的全生命周期处理
