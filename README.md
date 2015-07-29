@@ -20,8 +20,7 @@ Darwin依赖于Hadoop才能正常工作<br>
 请访问[产品Wiki链接](https://github.com/9zdata-darwin/Darwin/wiki/Darwin大数据应用支撑平台介绍)了解详情，包括以下内容
   * 产品描述
   * 产品定位&架构
-  * 产品功能描述与截图
-  * Hadoop兼容性
+  * 产品功能描述
   * 常见问题
 
 ## Darwin产品安装部署
