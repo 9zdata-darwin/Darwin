@@ -14,14 +14,13 @@ Darwin依赖于Hadoop才能正常工作<br>
   * Hadoop可选模块
     * HBase 0.98
     * Phoenix 1.0
-  * Mysql数据库
+  * 有可用的Mysql数据库(用于存储Darwin管理信息)
 
 ## Darwin产品Wiki
 请访问[产品Wiki链接](https://github.com/9zdata-darwin/Darwin/wiki/Darwin大数据应用支撑平台介绍)了解详情，包括以下内容
   * 产品描述
   * 产品定位&架构
-  * 产品功能描述与截图
-  * Hadoop兼容性
+  * 产品功能描述
   * 常见问题
 
 ## Darwin产品安装部署
