@@ -26,6 +26,11 @@ Darwin依赖于Hadoop才能正常工作<br>
   * 产品功能描述
   * 常见问题
 
+## Darwin产品获取
+ 下载方式：
+  * 百度云盘：[下载](http://pan.baidu.com/s/1gd1wz3H)
+  * github：敬请期待
+
 ## Darwin产品安装部署
   请访问[产品安装Wiki链接](https://github.com/9zdata-darwin/Darwin/wiki/Darwin安装部署步骤)了解详细步骤
   
